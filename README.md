@@ -1,13 +1,10 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
+# Goerli Vault
 
 ```shell
-npx hardhat help
+
+Contract Address (Goerli Testnet): 0x9E8082A920e89753d6F2A3c2657B30AccE8FB124
+
 npx hardhat test
-REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
